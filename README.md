@@ -138,7 +138,12 @@ Este curso está diseñado para enseñar a los participantes cómo utilizar Pyth
 
 ## Inteligencia Artificial
 
+Este curso está diseñado para enseñar a los participantes el uso avanzado de técnicas de aprendizaje automático automatizado y la implementación de modelos de lenguaje utilizando Python, aprovechando potentes herramientas y plataformas en la nube.
+
 #### 10: Aprendizaje Automático Automático
+
+**Objetivo:** Capacitar a los participantes en la automatización del aprendizaje automático utilizando modernas herramientas y plataformas en la nube, específicamente AWS SageMaker.
+
 **Habilidades Cubiertas:** Este módulo aborda el aprendizaje automático automatizado utilizando servicios como AWS SageMaker y servicios web para el aprendizaje automático.
 
 **Lecciones:**
@@ -148,6 +153,9 @@ Este curso está diseñado para enseñar a los participantes cómo utilizar Pyth
 4. Servicios Web para Aprendizaje Automático
 
 #### 11: Python para LLM (Modelo de Lenguaje)
+
+**Objetivo:** Explorar el uso de Python para desarrollar y afinar modelos de lenguaje, empleando avanzadas APIs y herramientas como las proporcionadas por OpenAI.
+
 **Habilidades Cubiertas:** Este apartado explora el uso de Python para el modelo de lenguaje, incluyendo modelos y API de OpenAI, agentes y ajuste fino de modelos.
 
 **Lecciones:**
