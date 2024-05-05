@@ -20,6 +20,7 @@ Este curso está diseñado en dos bloques de contenido clave, orientado a propor
 ### 02: Excel para Análisis de Datos
 
 **Objetivo:** ampliar las habilidades en Excel para incluir análisis de datos complejos, integración con bases de datos y herramientas avanzadas de visualización y manipulación de datos.
+
 **Habilidades Cubiertas:** Este módulo se enfoca en el análisis de datos en Excel, incluyendo conexiones a bases de datos, creación de gráficos, tablas dinámicas, importación y exportación de datos en formato CSV.
 
 **Lecciones:**
@@ -36,6 +37,7 @@ Este curso está estructurado en tres bloques fundamentales que abarcan desde la
 #### 03: Teoría de Bases de Datos
 
 **Objetivo:** Proporcionar una comprensión sólida de los principios fundamentales de las bases de datos, incluyendo su diseño, teoría y gestión.
+
 **Habilidades Cubiertas:** Este apartado aborda la teoría de bases de datos, incluyendo el Modelo ER, Integridad, Teoría Relacional, normalización y diagramas ER.
 
 **Lecciones:**
@@ -49,6 +51,7 @@ Este curso está estructurado en tres bloques fundamentales que abarcan desde la
 #### 04: SQL
 
 **Objetivo:** Desarrollar habilidades prácticas en SQL, el lenguaje estándar para manejar bases de datos relacionales, cubriendo desde las operaciones básicas hasta consultas complejas.
+
 **Habilidades Cubiertas:** Este módulo cubre el lenguaje SQL, incluyendo SELECT, UPDATE, JOIN, Subconsultas, DDL y DML.
 
 **Lecciones:**
@@ -61,6 +64,7 @@ Este curso está estructurado en tres bloques fundamentales que abarcan desde la
 #### 05: SQL Avanzado
 
 **Objetivo:** Explorar características avanzadas de SQL que permitan a los usuarios implementar y gestionar bases de datos a un nivel profesional.
+
 **Habilidades Cubiertas:** Este apartado aborda técnicas avanzadas de SQL, como TCL, Procedimientos Almacenados, Disparadores y Cursores.
 
 **Lecciones:**
@@ -69,8 +73,14 @@ Este curso está estructurado en tres bloques fundamentales que abarcan desde la
 3. Disparadores
 4. Cursores
 
-## Python
+## Programación y Visualización de Datos con Python
+
+Este curso está estructurado en tres bloques de contenido dedicados a proporcionar una formación integral en el lenguaje de programación Python, desde sus fundamentos hasta aplicaciones avanzadas en análisis de datos. 
+
 #### 06: Fundamentos de Python
+
+**Objetivo:** Este módulo está diseñado para introducir a los participantes en los fundamentos de Python, proporcionando una base sólida en la sintaxis del lenguaje y sus características esenciales.
+
 **Habilidades Cubiertas:** Este módulo se centra en los fundamentos de Python, incluyendo tipos de datos, sintaxis del lenguaje, programación orientada a objetos, paquetes y módulos.
 
 **Lecciones:**
@@ -82,6 +92,9 @@ Este curso está estructurado en tres bloques fundamentales que abarcan desde la
 6. Trabajo con Paquetes y Módulos
 
 #### 07: Python Avanzado
+
+**Objetivo:** Expandir las habilidades en Python con técnicas avanzadas que incluyen manipulación de archivos, interacción con bases de datos, y desarrollo de pruebas y entornos virtuales.
+
 **Habilidades Cubiertas:** Este apartado cubre temas avanzados de Python, como el manejo de archivos, acceso a bases de datos/ORM, pruebas, empaquetado, depuración y entornos virtuales.
 
 **Lecciones:**
@@ -94,6 +107,9 @@ Este curso está estructurado en tres bloques fundamentales que abarcan desde la
 
 
 #### 08: Python para Análisis de Datos
+
+**Objetivo:** Utilizar Python para realizar análisis de datos complejos, aprovechando potentes bibliotecas y técnicas de visualización y computación numérica.
+
 **Habilidades Cubiertas:** Este módulo se enfoca en el uso de Python para el análisis de datos, utilizando bibliotecas como pandas, seaborn, numpy, matplotlib y sciPy.
 
 **Lecciones:**
