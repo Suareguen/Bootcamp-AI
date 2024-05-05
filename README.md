@@ -31,7 +31,11 @@ Este curso está diseñado en dos bloques de contenido clave, orientado a propor
 6. 
 ## Bases de datos
 
+Este curso está estructurado en tres bloques fundamentales que abarcan desde la teoría de las bases de datos hasta el uso avanzado del lenguaje SQL. Está diseñado para proporcionar una formación integral en la gestión y manipulación de bases de datos, esencial para cualquier profesional que trabaje con datos en numerosos campos tecnológicos y empresariales. 
+
 #### 03: Teoría de Bases de Datos
+
+**Objetivo:** Proporcionar una comprensión sólida de los principios fundamentales de las bases de datos, incluyendo su diseño, teoría y gestión.
 **Habilidades Cubiertas:** Este apartado aborda la teoría de bases de datos, incluyendo el Modelo ER, Integridad, Teoría Relacional, normalización y diagramas ER.
 
 **Lecciones:**
@@ -43,6 +47,8 @@ Este curso está diseñado en dos bloques de contenido clave, orientado a propor
 6. Diagramas Entidad-Relación (ERD)
 
 #### 04: SQL
+
+**Objetivo:** Desarrollar habilidades prácticas en SQL, el lenguaje estándar para manejar bases de datos relacionales, cubriendo desde las operaciones básicas hasta consultas complejas.
 **Habilidades Cubiertas:** Este módulo cubre el lenguaje SQL, incluyendo SELECT, UPDATE, JOIN, Subconsultas, DDL y DML.
 
 **Lecciones:**
@@ -53,6 +59,8 @@ Este curso está diseñado en dos bloques de contenido clave, orientado a propor
 5. Técnicas Avanzadas de SQL
 
 #### 05: SQL Avanzado
+
+**Objetivo:** Explorar características avanzadas de SQL que permitan a los usuarios implementar y gestionar bases de datos a un nivel profesional.
 **Habilidades Cubiertas:** Este apartado aborda técnicas avanzadas de SQL, como TCL, Procedimientos Almacenados, Disparadores y Cursores.
 
 **Lecciones:**
