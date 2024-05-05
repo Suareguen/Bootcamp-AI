@@ -1,4 +1,6 @@
-### Reboot AI #01: Excel Básico
+## Reboot AI 
+
+### 01: Excel Básico
 **Habilidades Cubiertas:** Este módulo cubre las habilidades básicas de Excel, incluyendo el uso de fórmulas, formato de celdas, referencias de celdas y trabajo con hojas de cálculo.
 
 **Lecciones:**
@@ -8,7 +10,7 @@
 4. Referenciación de Celdas
 5. Trabajo con Hojas de Cálculo
 
-### Reboot AI #02: Excel para Análisis de Datos
+### 02: Excel para Análisis de Datos
 **Habilidades Cubiertas:** Este módulo se enfoca en el análisis de datos en Excel, incluyendo conexiones a bases de datos, creación de gráficos, tablas dinámicas, importación y exportación de datos en formato CSV.
 
 **Lecciones:**
@@ -18,7 +20,7 @@
 4. Tablas Dinámicas
 5. Importación y Exportación de Datos (CSV)
 
-### Bases de Datos
+### 03: Bases de Datos
 #### Teoría de Bases de Datos
 **Habilidades Cubiertas:** Este apartado aborda la teoría de bases de datos, incluyendo el Modelo ER, Integridad, Teoría Relacional, normalización y diagramas ER.
 
@@ -30,7 +32,7 @@
 5. Normalización
 6. Diagramas Entidad-Relación (ERD)
 
-#### SQL
+#### 04: SQL
 **Habilidades Cubiertas:** Este módulo cubre el lenguaje SQL, incluyendo SELECT, UPDATE, JOIN, Subconsultas, DDL y DML.
 
 **Lecciones:**
@@ -40,7 +42,7 @@
 4. Joins y Subconsultas
 5. Técnicas Avanzadas de SQL
 
-#### SQL Avanzado
+#### 05: SQL Avanzado
 **Habilidades Cubiertas:** Este apartado aborda técnicas avanzadas de SQL, como TCL, Procedimientos Almacenados, Disparadores y Cursores.
 
 **Lecciones:**
@@ -50,7 +52,7 @@
 4. Cursores
 
 ### Python
-#### Fundamentos de Python
+#### 06: Fundamentos de Python
 **Habilidades Cubiertas:** Este módulo se centra en los fundamentos de Python, incluyendo tipos de datos, sintaxis del lenguaje, programación orientada a objetos, paquetes y módulos.
 
 **Lecciones:**
@@ -61,7 +63,7 @@
 5. Programación Orientada a Objetos (POO)
 6. Trabajo con Paquetes y Módulos
 
-#### Python Avanzado
+#### 07: Python Avanzado
 **Habilidades Cubiertas:** Este apartado cubre temas avanzados de Python, como el manejo de archivos, acceso a bases de datos/ORM, pruebas, empaquetado, depuración y entornos virtuales.
 
 **Lecciones:**
@@ -73,7 +75,7 @@
 6. Entornos Virtuales
 
 ### Inteligencia Artificial
-#### Python para Análisis de Datos
+#### 08: Python para Análisis de Datos
 **Habilidades Cubiertas:** Este módulo se enfoca en el uso de Python para el análisis de datos, utilizando bibliotecas como pandas, seaborn, numpy, matplotlib y sciPy.
 
 **Lecciones:**
@@ -83,7 +85,7 @@
 4. Cómputo Numérico con numpy
 5. Cómputo Científico con sciPy
 
-#### Python para Aprendizaje Automático
+#### 09: Python para Aprendizaje Automático
 **Habilidades Cubiertas:** Este apartado aborda el uso de Python para el aprendizaje automático, utilizando bibliotecas como scikit-learn, tensorflow, keras, pytorch y xgboost.
 
 **Lecciones:**
@@ -93,7 +95,7 @@
 4. Redes Neuronales y Aprendizaje Profundo
 5. Evaluación de Modelos y Ajuste de Hiperparámetros
 
-#### Aprendizaje Automático Automático
+#### 10: Aprendizaje Automático Automático
 **Habilidades Cubiertas:** Este módulo aborda el aprendizaje automático automatizado utilizando servicios como AWS SageMaker y servicios web para el aprendizaje automático.
 
 **Lecciones:**
@@ -102,7 +104,7 @@
 3. Entrenamiento y Despliegue de Modelos con SageMaker
 4. Servicios Web para Aprendizaje Automático
 
-#### Python para LLM (Modelo de Lenguaje)
+#### 11: Python para LLM (Modelo de Lenguaje)
 **Habilidades Cubiertas:** Este apartado explora el uso de Python para el modelo de lenguaje, incluyendo modelos y API de OpenAI, agentes y ajuste fino de modelos.
 
 **Lecciones:**
