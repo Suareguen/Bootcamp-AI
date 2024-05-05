@@ -1,6 +1,8 @@
 # Reboot AI 
 ## Bloque Excel
 
+Este curso está diseñado en dos bloques de contenido clave, orientado a proporcionar una formación integral en el uso de Microsoft Excel, desde las habilidades básicas hasta técnicas avanzadas de análisis de datos. 
+
 ### 01: Excel Básico
 
 **Objetivo:** este módulo está diseñado para dotar a los participantes de las competencias fundamentales necesarias para manejar y optimizar el uso de Excel en tareas cotidianas y profesionales.
