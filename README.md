@@ -1,4 +1,23 @@
 # Reboot AI 
+## Contenidos
+- [Bloque de Excel](#bloque-de-excel)
+  - [Excel Básico](#01-excel-básico)
+  - [Excel para Análisis de Datos](#02-excel-para-análisis-de-datos)
+- [Bloque de Bases de Datos](#bloque-de-bases-de-datos)
+  - [Teoría de Bases de Datos](#03-teoría-de-bases-de-datos)
+  - [SQL](#04-sql)
+  - [SQL Avanzado](#05-sql-avanzado)
+- [Programación y Visualización de Datos con Python](#programación-y-visualización-de-datos-con-python)
+  - [Fundamentos de Python](#06-fundamentos-de-python)
+  - [Python Avanzado](#07-python-avanzado)
+  - [Python para Análisis de Datos](#08-python-para-análisis-de-datos)
+- [Python para Aprendizaje Automático](#python-para-aprendizaje-automático)
+  - [Aprendizaje Automático con Python](#09-python-para-aprendizaje-automático)
+- [Inteligencia Artificial](#inteligencia-artificial)
+  - [Aprendizaje Automático Automático](#10-aprendizaje-automático-automático)
+  - [Python para LLM (Modelo de Lenguaje)](#11-python-para-llm-modelo-de-lenguaje)
+
+
 ## Bloque Excel
 
 Este curso está diseñado en dos bloques de contenido clave, orientado a proporcionar una formación integral en el uso de Microsoft Excel, desde las habilidades básicas hasta técnicas avanzadas de análisis de datos. 
