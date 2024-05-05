@@ -119,7 +119,7 @@ Este curso está estructurado en tres bloques de contenido dedicados a proporcio
 4. Cómputo Numérico con numpy
 5. Cómputo Científico con sciPy
 
-### Python para Aprendizaje Automático
+## Python para Aprendizaje Automático
 
 #### 09: Python para Aprendizaje Automático
 **Habilidades Cubiertas:** Este apartado aborda el uso de Python para el aprendizaje automático, utilizando bibliotecas como scikit-learn, tensorflow, keras, pytorch y xgboost.
@@ -131,7 +131,7 @@ Este curso está estructurado en tres bloques de contenido dedicados a proporcio
 4. Redes Neuronales y Aprendizaje Profundo
 5. Evaluación de Modelos y Ajuste de Hiperparámetros
 
-### Inteligencia Artificial
+## Inteligencia Artificial
 
 #### 10: Aprendizaje Automático Automático
 **Habilidades Cubiertas:** Este módulo aborda el aprendizaje automático automatizado utilizando servicios como AWS SageMaker y servicios web para el aprendizaje automático.
