@@ -1,4 +1,4 @@
-## Reboot AI 
+# Reboot AI 
 
 ### 01: Excel Básico
 **Habilidades Cubiertas:** Este módulo cubre las habilidades básicas de Excel, incluyendo el uso de fórmulas, formato de celdas, referencias de celdas y trabajo con hojas de cálculo.
@@ -19,9 +19,10 @@
 3. Gráficos y Visualización de Datos
 4. Tablas Dinámicas
 5. Importación y Exportación de Datos (CSV)
+6. 
+## Bases de datos
 
-### 03: Bases de Datos
-#### Teoría de Bases de Datos
+#### 03: Teoría de Bases de Datos
 **Habilidades Cubiertas:** Este apartado aborda la teoría de bases de datos, incluyendo el Modelo ER, Integridad, Teoría Relacional, normalización y diagramas ER.
 
 **Lecciones:**
@@ -51,7 +52,7 @@
 3. Disparadores
 4. Cursores
 
-### Python
+## Python
 #### 06: Fundamentos de Python
 **Habilidades Cubiertas:** Este módulo se centra en los fundamentos de Python, incluyendo tipos de datos, sintaxis del lenguaje, programación orientada a objetos, paquetes y módulos.
 
