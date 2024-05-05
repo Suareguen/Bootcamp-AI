@@ -17,7 +17,7 @@
 
 ### 02: Excel para Análisis de Datos
 
-** Objetivo:**  ampliar las habilidades en Excel para incluir análisis de datos complejos, integración con bases de datos y herramientas avanzadas de visualización y manipulación de datos.
+**Objetivo:** ampliar las habilidades en Excel para incluir análisis de datos complejos, integración con bases de datos y herramientas avanzadas de visualización y manipulación de datos.
 **Habilidades Cubiertas:** Este módulo se enfoca en el análisis de datos en Excel, incluyendo conexiones a bases de datos, creación de gráficos, tablas dinámicas, importación y exportación de datos en formato CSV.
 
 **Lecciones:**
