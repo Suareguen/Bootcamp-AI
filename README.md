@@ -16,6 +16,7 @@
 - **Cohorte:** Python
 - **Habilidades:**
   1.- Fundamentos de Python
+  
   2. Python Avanzado
 
 ## Bloque 4: Inteligencia Artificial (AI)
