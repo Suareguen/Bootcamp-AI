@@ -75,7 +75,7 @@
 5. Técnicas de Depuración
 6. Entornos Virtuales
 
-### Inteligencia Artificial
+
 #### 08: Python para Análisis de Datos
 **Habilidades Cubiertas:** Este módulo se enfoca en el uso de Python para el análisis de datos, utilizando bibliotecas como pandas, seaborn, numpy, matplotlib y sciPy.
 
@@ -85,6 +85,7 @@
 3. Visualización de Datos con seaborn y matplotlib
 4. Cómputo Numérico con numpy
 5. Cómputo Científico con sciPy
+### ython para Aprendizaje Automático
 
 #### 09: Python para Aprendizaje Automático
 **Habilidades Cubiertas:** Este apartado aborda el uso de Python para el aprendizaje automático, utilizando bibliotecas como scikit-learn, tensorflow, keras, pytorch y xgboost.
@@ -95,6 +96,8 @@
 3. Algoritmos de Aprendizaje No Supervisado
 4. Redes Neuronales y Aprendizaje Profundo
 5. Evaluación de Modelos y Ajuste de Hiperparámetros
+
+### Inteligencia Artificial
 
 #### 10: Aprendizaje Automático Automático
 **Habilidades Cubiertas:** Este módulo aborda el aprendizaje automático automatizado utilizando servicios como AWS SageMaker y servicios web para el aprendizaje automático.
