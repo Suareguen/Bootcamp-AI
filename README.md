@@ -1,7 +1,12 @@
 # Reboot AI 
+## Bloque Excel
 
 ### 01: Excel Básico
+
+**Objetivo:** este módulo está diseñado para dotar a los participantes de las competencias fundamentales necesarias para manejar y optimizar el uso de Excel en tareas cotidianas y profesionales.
+
 **Habilidades Cubiertas:** Este módulo cubre las habilidades básicas de Excel, incluyendo el uso de fórmulas, formato de celdas, referencias de celdas y trabajo con hojas de cálculo.
+
 
 **Lecciones:**
 1. Introducción a Excel
@@ -11,6 +16,8 @@
 5. Trabajo con Hojas de Cálculo
 
 ### 02: Excel para Análisis de Datos
+
+** Objetivo:**  ampliar las habilidades en Excel para incluir análisis de datos complejos, integración con bases de datos y herramientas avanzadas de visualización y manipulación de datos.
 **Habilidades Cubiertas:** Este módulo se enfoca en el análisis de datos en Excel, incluyendo conexiones a bases de datos, creación de gráficos, tablas dinámicas, importación y exportación de datos en formato CSV.
 
 **Lecciones:**
