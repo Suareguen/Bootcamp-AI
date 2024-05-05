@@ -85,7 +85,8 @@
 3. Visualización de Datos con seaborn y matplotlib
 4. Cómputo Numérico con numpy
 5. Cómputo Científico con sciPy
-### ython para Aprendizaje Automático
+
+### Python para Aprendizaje Automático
 
 #### 09: Python para Aprendizaje Automático
 **Habilidades Cubiertas:** Este apartado aborda el uso de Python para el aprendizaje automático, utilizando bibliotecas como scikit-learn, tensorflow, keras, pytorch y xgboost.
