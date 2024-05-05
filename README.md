@@ -121,7 +121,12 @@ Este curso está estructurado en tres bloques de contenido dedicados a proporcio
 
 ## Python para Aprendizaje Automático
 
+Este curso está diseñado para enseñar a los participantes cómo utilizar Python para desarrollar y aplicar técnicas de aprendizaje automático, haciendo uso de algunas de las bibliotecas más poderosas y populares en el campo. A través de un enfoque práctico y teórico, los estudiantes aprenderán a construir, evaluar y optimizar modelos de machine learning.
+
 #### 09: Python para Aprendizaje Automático
+
+**Objetivo:** Capacitar a los participantes en el uso efectivo de Python para implementar y manipular modelos de aprendizaje automático, incluyendo tanto técnicas supervisadas como no supervisadas, así como aprendizaje profundo.
+
 **Habilidades Cubiertas:** Este apartado aborda el uso de Python para el aprendizaje automático, utilizando bibliotecas como scikit-learn, tensorflow, keras, pytorch y xgboost.
 
 **Lecciones:**
