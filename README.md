@@ -20,27 +20,21 @@
   - [Aprendizaje Automático Automático](#10-aprendizaje-automático-automático)
   - [Python para LLM (Modelo de Lenguaje)](#11-python-para-llm-modelo-de-lenguaje)
 
-# Reboot AI 
+| **Bloque** | **Skill** | **Lecciones y Proyectos** |
+|------------|-----------|---------------------------|
+| **Excel** | **Excel Basics** | - Intro to Excel<br>- Data Entry and Formatting<br>- Mastering Basic Excel Formulas<br>- Essential Data Management<br>- Workbook and Worksheet Management<br>- Fundamentals of Data Visualization<br>- Excel Productivity Techniques<br>- Collaboration and Sharing in Excel |
+| | **Excel for Data Analysis** | - Data Cleaning Techniques<br>- Advanced Formulas Mastery<br>- Lookup Functions Proficiency<br>- Summarizing Data with Pivot Tables<br>- Deep Dive into Data Analysis Tools<br>- Advanced Charting Techniques<br>- Automating with Macros<br>- Introduction to Excel VB<br>- Integration Excel with External Data<br>- Best Practices for Data Analysis |
+| **Databases** | **Database Theory** | - Intro to Database Design<br>- Implementing Logical Database Design<br>- **Final project: Analysis and Design** |
+| **SQL** | **SQL Mastery** | - Mastering DDL and Basic DML<br>- Advanced DML Techniques<br>- Transaction and Data Control<br>- SQL Advanced<br>- Optimized Queries and Managing Large Data Sets<br>- Mastered Stirred Procedures<br>- Utilizing Triggers<br>- **Final Project** |
+| **Python** | **Python Basics** | - Python Syntax and Semantics<br>- Data Types and Operators<br>- Control Structures: if, for, while<br>- Datatypes and Variables<br>- Primitive Data Types<br>- Data Structures: List, Dictionaries, Tuples, Sets<br>- Conditions and Loops<br>- List Comprehensions<br>- Functions and Models<br>- Defining and Calling Functions<br>- Arguments and Return Values<br>- Importing Modules and Exploring Standard Libraries<br>- Error Handling<br>- Exception Handling<br>- Creating Custom Exceptions |
+| | **Python Advanced** | - Object-Oriented Programming<br>- Classes and Objects<br>- Inheritance and Polymorphism<br>- Encapsulation and Private Methods<br>- Advanced Exception Handling<br>- Context Managers<br>- Advanced Data Structures: Trees, Graphs<br>- Decorators and Generators<br>- Creating and Using Decorators<br>- Generator Functions and Iterators<br>- File Handling<br>- Reading and Writing Files<br>- File Management with Context Managers |
+| **Mathematics for AI** | **Fundamental Mathematics for AI** | - Intro to Linear Algebra: Scalars, Vectors, Matrices, Tensors?<br>- Matrix Operations<br>- Vector Spaces and Subspaces<br>- Eigenvalues and Eigenvectors<br>- SVD and PCA<br>- Foundations Calculus: Functions, Limits, Continuity, Derivatives<br>- Techniques of Differentiation<br>- Integral Calculus<br>- Multivariable Calculus<br>- Probability Fundamentals<br>- Conditional Probability and Bayes Theorem<br>- Expectation and Variance<br>- Markov Chains and Bayesian Inference<br>- Descriptive Statistics<br>- Inferential Statistics<br>- Regression Analysis<br>- Non-parametric Methods<br>- Intro to Optimization<br>- Linear Programming<br>- Non-linear Optimization<br>- Advanced Topics Optimization |
+| **Python for Data Analysis** | **Python for Data Analysis** | - Pandas for Data Manipulation<br>- Series and DataFrames<br>- Essential Operations with Pandas<br>- NumPy for Numerical Data<br>- Arrays and Matrix Operations<br>- Universal Functions<br>- Data Cleaning Techniques<br>- Handling Missing and Duplicate Values<br>- Data Visualization<br>- Matplotlib and Seaborn<br>- Creating Graphs and Advanced Visualizations<br>- Exploratory Data Analysis: Techniques, Descriptive Statistics, Visualizing Relationships |
+| **Python for ML** | **Machine Learning with Python** | - Intro to Machine Learning Concepts<br>- Types of Machine Learning<br>- Key Concepts of Supervised Machine Learning<br>- Solving Problems with ML vs Traditional Approaches<br>- Introduction to Scikit-Learn<br>- Data Processing: Scaling, Normalization, Feature Engineering<br>- Supervised Learning Models: Regression and Classification Models<br>- Model Validation and Selection<br>- Unsupervised Learning Models: Clustering and Dimensionality Reduction<br>- Model Evaluation and Tuning: Model Evaluation Methods, Hyperparameter Tuning and Cross-validation |
+| **AI and Auto ML** | **Automated Machine Learning (Auto ML)** | - Intro to Automated ML<br>- Overview of Auto ML<br>- Benefits and Limitations<br>- Use Cases and Applications<br>- Tools and Platforms for Auto ML<br>- Introduction to Popular Auto ML Platforms (AWS Sage Maker)<br>- Comparing Features and Selecting the Right Tool<br>- Preparing Data for Auto ML<br>- Data Cleaning and Preprocessing for Auto ML<br>- Feature Selection and Feature Engineering<br>- Importance of Data Quality in Auto ML<br>- Building Models with Auto ML<br>- Setting up an Auto ML Project<br>- Training Models Using Auto ML Tools<br>- Evaluating Model Performance Automatically<br>- Advanced Topics in Auto ML: Hyperparameter Optimization, Customizing Auto ML Pipelines, Auto ML for Complex Problems Like Time Series Forecasting |
+| **Deep Learning and LLMs** | **Neural Networks and LLMs** | - Intro to AI Neural Networks<br>- Convolutional Neural Networks (CNN)<br>- Recurrent Neural Networks (RNN)<br>- Transformers and Large Language Models<br>- Intro to Large Language Models<br>- Understanding LLMs and Their Architecture (GPT, BERT)<br>- Capabilities and Applications of LLMs<br>- Setting up Python Environment for LLM Development<br>- Setting up Development Environments (Jupyter, Google Colab)<br>- Installing Necessary Libraries and Frameworks (Transformers)<br>- Data Preparation for LLM Training<br>- Data Collection and Dataset Creation for Training LLMs<br>- Preprocessing Techniques Specific to Text Data<br>- Creating Training and Validation Sets<br>- Implementing LLM with Python<br>- Using Pre-trained Models from Libraries like Hugging Face<br>- Fine-tuning LLMs on Specific Tasks or Datasets<br>- Integration of LLMs into Applications<br>- Advanced Techniques in LLM Optimization: Techniques for Improving Model Performance, Scaling up LLMs, Addressing Challenges Like Model Bias and Ethical Considerations<br>- **Final Project - AI Case Study:** Completing a comprehensive project that applies LLM and other AI knowledge to solve a real-world problem. |
 
 
-
-## Contenidos
-- [Bloque de Excel](#bloque-de-excel)
-  - [Excel Básico](#01-excel-básico)
-  - [Excel para Análisis de Datos](#02-excel-para-análisis-de-datos)
-- [Bloque de Bases de Datos](#bloque-de-bases-de-datos)
-  - [Teoría de Bases de Datos](#03-teoría-de-bases-de-datos)
-  - [SQL](#04-sql)
-  - [SQL Avanzado](#05-sql-avanzado)
-- [Programación y Visualización de Datos con Python](#programación-y-visualización-de-datos-con-python)
-  - [Fundamentos de Python](#06-fundamentos-de-python)
-  - [Python Avanzado](#07-python-avanzado)
-  - [Python para Análisis de Datos](#08-python-para-análisis-de-datos)
-- [Python para Aprendizaje Automático](#python-para-aprendizaje-automático)
-  - [Aprendizaje Automático con Python](#09-python-para-aprendizaje-automático)
-- [Inteligencia Artificial](#inteligencia-artificial)
-  - [Aprendizaje Automático Automático](#10-aprendizaje-automático-automático)
-  - [Python para LLM (Modelo de Lenguaje)](#11-python-para-llm-modelo-de-lenguaje)
 
 | **Bloque** | **Skill** | **Lessons y Proyectos** |
 |------------|-----------|-------------------------|
