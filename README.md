@@ -21,6 +21,69 @@
   - [Python para LLM (Modelo de Lenguaje)](#11-python-para-llm-modelo-de-lenguaje)
 
 
+# PreWork
+
+[Enlace al pretrabajo](https://chat.openai.com/share/3e4e4361-c075-4de8-ae10-4a89fd227239)
+
+## Requisitos
+
+### Requisitos por Bloque
+
+- **Excel:**
+  - Sin requisitos.
+
+- **SQL:**
+  - Título de bachillerato, ciclo formativo de grado superior u otras titulaciones equivalentes. Independientemente de lo anterior, todas las personas aspirantes realizarán una prueba de nivel donde demostrarán conocimientos suficientes para seguir el curso.
+  - Es recomendable tener conocimientos de algún lenguaje de programación e inglés a nivel de comprensión lectora.
+
+- **Python:**
+  - Cumplir como mínimo alguno de los siguientes requisitos:
+    - Haber superado la prueba de acceso a Ciclos Formativos de Grado Superior.
+    - Título de Bachiller o equivalente.
+    - Haber superado cualquier prueba oficial de acceso a la universidad.
+    - Título de Grado o equivalente.
+    - Certificado de profesionalidad de nivel 3.
+    - Título de Postgrado (Máster) o equivalente.
+    - Título de Técnico Superior (FP Grado superior) o equivalente.
+  - Se recomiendan los siguientes requisitos mínimos:
+    - Conocimientos básicos de SQL.
+    - Conocimientos básicos en lenguajes de programación orientada a objetos.
+    - Inglés técnico a nivel de lectura.
+
+- **ML:**
+  - No hay requisitos.
+
+- **IA:**
+  - Cumplir como mínimo alguno de los siguientes requisitos:
+    - Título de Técnico Superior (FP Grado Superior) o equivalente.
+    - Haber superado la prueba de acceso a Ciclos Formativos de Grado Superior.
+    - Haber superado cualquier prueba oficial de acceso a la universidad.
+    - Certificado de profesionalidad de nivel 3.
+    - Título de Grado o equivalente.
+    - Título de Postgrado (Máster) o equivalente.
+  - Previo recomendado: conocimientos previos en programación orientada a objetos utilizando el lenguaje de programación Java. Nivel alto de Inglés (Mínimo B1).
+
+La formación mínima requerida será la más obligatoria de las unidades formativas, es decir, mínimo con un Certificado de profesionalidad 3 ó haber superado las pruebas de acceso a la universidad, ciclos formativos, etc.
+
+**Educación mínima:** Certificado o Licenciatura.
+
+**Grado:** informática, estadística, matemáticas, ingeniería, economía, ...
+
+## Bootcamp Reboot
+
+### Habilidades Técnicas
+
+- Programación previa
+- Habilidades en Excel
+- Conocimientos estadísticos
+- Experiencia profesional
+- Experiencia o relación en el sector de análisis de datos y científico de datos
+- Familiaridad con bases de datos
+- Conocimiento matemático
+- Resolución de problemas analíticos
+- Conocimientos mínimos en estadística (estadística descriptiva, probabilidad), cálculo (cálculo diferencial e integral) y álgebra lineal (matrices y vectores).
+
+
 ## Skills - Lessons
 
 | Cohort        | Cohort Module              | Skills                         | Lessons                                                                                                                                                                                                                                                                                                                                                                                                                              | Categories |
