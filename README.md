@@ -1,4 +1,18 @@
 # Reboot AI 
+
+| **Bloque** | **Skill** | **Lessons y Proyectos** |
+|------------|-----------|-------------------------|
+| **Bloque 1: Herramientas de Análisis de Datos con Excel** | **Fundamentos de Excel** | - Introducción y navegación por Excel.<br>- Técnicas básicas de entrada y formato de datos.<br>- Fórmulas esenciales y gestión de libros y hojas de cálculo. |
+| | **Excel Avanzado para Análisis de Datos** | - Técnicas de limpieza de datos.<br>- Funciones avanzadas y de búsqueda.<br>- Sumarización de datos con tablas dinámicas.<br>- Automatización con macros y VBA.<br>- Integración de Excel con datos externos.<br>- **Proyecto:** Crear un dashboard interactivo para análisis financiero. |
+| **Bloque 2: Fundamentos de Bases de Datos y SQL** | **Diseño y Teoría de Bases de Datos** | - Principios de diseño de bases de datos relacionales.<br>- Implementación de diseño lógico y físico.<br>- **Proyecto:** Diseñar y construir una base de datos para una pequeña empresa. |
+| | **Aplicación Práctica de SQL** | - Manejo de DDL y DML básico.<br>- Técnicas avanzadas de DML y control de transacciones.<br>- Creación y uso de procedimientos almacenados y disparadores.<br>- **Proyecto:** Desarrollo de un sistema de gestión de inventarios usando SQL. |
+| **Bloque 3: Programación en Python y Visualización de Datos** | **Python para Principiantes** | - Sintaxis básica y estructuras de control.<br>- Estructuras de datos en Python.<br>- Manejo de excepciones y errores. |
+| | **Python Avanzado** | - Programación orientada a objetos en Python.<br>- Uso de decoradores y generadores.<br>- Manejo avanzado de archivos y context managers.<br>- **Proyecto:** Crear una aplicación de línea de comandos para procesar y analizar datos de log. |
+| | **Visualización de Datos con Python** | - Uso de Pandas para manipulación de datos.<br>- Creación de visualizaciones con Matplotlib y Seaborn.<br>- **Proyecto:** Análisis exploratorio de datos de ventas para identificar tendencias y anomalías. |
+| **Bloque 4: Machine Learning y Automatización** | **Fundamentos de Machine Learning con Python** | - Introducción a conceptos y tipos de machine learning.<br>- Implementación de modelos de regresión y clasificación.<br>- Validación y selección de modelos.<br>- **Proyecto:** Desarrollar un modelo predictivo para clasificar correos electrónicos como spam o no spam. |
+| | **Auto ML y Redes Neuronales** | - Introducción a Auto ML y plataformas populares.<br>- Configuración y entrenamiento de modelos con Auto ML.<br>- Introducción a redes neuronales, CNN y RNN.<br>- **Proyecto:** Implementar un modelo de Auto ML para predecir la demanda de productos en un supermercado. |
+| **Proyecto Final** | **Integración y Aplicación Completa de AI** | - Desarrollo de un sistema completo que integra los conocimientos adquiridos en el bootcamp para resolver un problema real. |
+
 ## Contenidos
 - [Bloque de Excel](#bloque-de-excel)
   - [Excel Básico](#01-excel-básico)
@@ -16,20 +30,6 @@
 - [Inteligencia Artificial](#inteligencia-artificial)
   - [Aprendizaje Automático Automático](#10-aprendizaje-automático-automático)
   - [Python para LLM (Modelo de Lenguaje)](#11-python-para-llm-modelo-de-lenguaje)
-
-
-| **Bloque** | **Skill** | **Lessons y Proyectos** |
-|------------|-----------|-------------------------|
-| **Bloque 1: Herramientas de Análisis de Datos con Excel** | **Fundamentos de Excel** | - Introducción y navegación por Excel.<br>- Técnicas básicas de entrada y formato de datos.<br>- Fórmulas esenciales y gestión de libros y hojas de cálculo. |
-| | **Excel Avanzado para Análisis de Datos** | - Técnicas de limpieza de datos.<br>- Funciones avanzadas y de búsqueda.<br>- Sumarización de datos con tablas dinámicas.<br>- Automatización con macros y VBA.<br>- Integración de Excel con datos externos.<br>- **Proyecto:** Crear un dashboard interactivo para análisis financiero. |
-| **Bloque 2: Fundamentos de Bases de Datos y SQL** | **Diseño y Teoría de Bases de Datos** | - Principios de diseño de bases de datos relacionales.<br>- Implementación de diseño lógico y físico.<br>- **Proyecto:** Diseñar y construir una base de datos para una pequeña empresa. |
-| | **Aplicación Práctica de SQL** | - Manejo de DDL y DML básico.<br>- Técnicas avanzadas de DML y control de transacciones.<br>- Creación y uso de procedimientos almacenados y disparadores.<br>- **Proyecto:** Desarrollo de un sistema de gestión de inventarios usando SQL. |
-| **Bloque 3: Programación en Python y Visualización de Datos** | **Python para Principiantes** | - Sintaxis básica y estructuras de control.<br>- Estructuras de datos en Python.<br>- Manejo de excepciones y errores. |
-| | **Python Avanzado** | - Programación orientada a objetos en Python.<br>- Uso de decoradores y generadores.<br>- Manejo avanzado de archivos y context managers.<br>- **Proyecto:** Crear una aplicación de línea de comandos para procesar y analizar datos de log. |
-| | **Visualización de Datos con Python** | - Uso de Pandas para manipulación de datos.<br>- Creación de visualizaciones con Matplotlib y Seaborn.<br>- **Proyecto:** Análisis exploratorio de datos de ventas para identificar tendencias y anomalías. |
-| **Bloque 4: Machine Learning y Automatización** | **Fundamentos de Machine Learning con Python** | - Introducción a conceptos y tipos de machine learning.<br>- Implementación de modelos de regresión y clasificación.<br>- Validación y selección de modelos.<br>- **Proyecto:** Desarrollar un modelo predictivo para clasificar correos electrónicos como spam o no spam. |
-| | **Auto ML y Redes Neuronales** | - Introducción a Auto ML y plataformas populares.<br>- Configuración y entrenamiento de modelos con Auto ML.<br>- Introducción a redes neuronales, CNN y RNN.<br>- **Proyecto:** Implementar un modelo de Auto ML para predecir la demanda de productos en un supermercado. |
-| **Proyecto Final** | **Integración y Aplicación Completa de AI** | - Desarrollo de un sistema completo que integra los conocimientos adquiridos en el bootcamp para resolver un problema real. |
 
 
 ## Bloque Excel
