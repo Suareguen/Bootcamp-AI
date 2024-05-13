@@ -3,7 +3,7 @@
 
 
 ## Contenidos
-- [Skills - Lessons](#prework)
+- [Prework](#prework)
 - [Skills - Lessons](#skills-lessons)
 - [Requisitos](#requisitos)
 - [Bloque de Excel](#bloque-de-excel)
