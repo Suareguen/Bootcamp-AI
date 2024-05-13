@@ -112,6 +112,7 @@ La formación mínima requerida será la más obligatoria de las unidades format
 
 
 
+
 ## Bloque Excel
 
 Este curso está diseñado en dos bloques de contenido clave, orientado a proporcionar una formación integral en el uso de Microsoft Excel, desde las habilidades básicas hasta técnicas avanzadas de análisis de datos. 
