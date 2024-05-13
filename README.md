@@ -3,6 +3,9 @@
 
 
 ## Contenidos
+- [Skills - Lessons](#prework)
+- [Skills - Lessons](#skills-lessons)
+- [Requisitos](#requisitos)
 - [Bloque de Excel](#bloque-de-excel)
   - [Excel Básico](#01-excel-básico)
   - [Excel para Análisis de Datos](#02-excel-para-análisis-de-datos)
@@ -84,7 +87,7 @@ La formación mínima requerida será la más obligatoria de las unidades format
 - Conocimientos mínimos en estadística (estadística descriptiva, probabilidad), cálculo (cálculo diferencial e integral) y álgebra lineal (matrices y vectores).
 
 
-## Skills - Lessons
+## Skills-Lessons
 
 | Cohort        | Cohort Module              | Skills                         | Lessons                                                                                                                                                                                                                                                                                                                                                                                                                              | Categories |
 |---------------|----------------------------|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
