@@ -30,7 +30,8 @@
 
 ### Requisitos por Bloque
 - **Deseable**:
-  | Área                         | Características específicas                                                                                                                               |
+
+| Área                         | Características específicas                                                                                                                               |
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Álgebra Lineal**           | - Escalares, vectores, matrices y tensores<br> - Operaciones con matrices (suma, resta, multiplicación)<br> - Producto punto y producto cruzado<br> - Determinante y matriz inversa |
 |                              | - Espacios vectoriales y subespacios<br> - Bases y dimensión<br> - Espacios nulos y espacios columna<br> - Valores y vectores propios<br> - Aplicaciones en reducción de dimensionalidad |
