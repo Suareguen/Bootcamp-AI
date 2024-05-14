@@ -1,4 +1,40 @@
 # Reboot AI 
+| Día   | Temas                                                | Horas   |
+|-------|------------------------------------------------------|---------|
+| 1     | - Introducción a Excel                               | 1       |
+|       | - Entrada de Datos y Formateo                         | 1       |
+|       | - Dominio de fórmulas básicas de Excel                | 1       |
+|       | - Gestión esencial de datos y manejo de libros y     |         |
+|       |   hojas de cálculo                                   | 1       |
+|       | - Técnicas de productividad en Excel y colaboración  |         |
+|       |   y uso compartido en Excel                          | 1       |
+|       | - Laboratorio práctico                                | 3       |
+| 2     | - Técnicas de limpieza de datos y dominio de         | 1       |
+|       |   fórmulas avanzadas                                 |         |
+|       | - Competencia en funciones de búsqueda y resumen de  | 1       |
+|       |   datos con tablas dinámicas                         |         |
+|       | - Profundización en herramientas de análisis de      | 1       |
+|       |   datos y técnicas avanzadas de visualización        |         |
+|       | - Automatización con macros y laboratorio práctico   | 2       |
+|       | - Laboratorio práctico                                | 2       |
+| 3     | - Introducción a Visual Basic para Excel y técnicas  | 1       |
+|       |   de integración de datos externos                   |         |
+|       | - Mejores prácticas para análisis de datos y         | 1       |
+|       |   técnicas avanzadas de visualización                |         |
+|       | - Técnicas de limpieza de datos avanzadas y dominio | 1       |
+|       |   de fórmulas avanzadas                              |         |
+|       | - Dominio de funciones de búsqueda avanzadas y       | 1       |
+|       |   resumen de datos con tablas dinámicas              |         |
+|       | - Laboratorio práctico                                | 3       |
+| 4     | - Profundización en técnicas avanzadas de            | 1       |
+|       |   visualización y técnicas de gráficos avanzadas     |         |
+|       | - Automatización avanzada con macros y práctica      | 2       |
+|       |   práctica                                            |         |
+|       | - Integración de Excel con datos externos y práctica | 1       |
+|       |   práctica                                            |         |
+|       | - Mejores prácticas para análisis de datos y         | 1       |
+|       |   práctica práctica                                  |         |
+|       | - Laboratorio práctico final                         | 3       |
 
 
 
