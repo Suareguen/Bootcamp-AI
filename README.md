@@ -1,42 +1,4 @@
 # Reboot AI 
-| Día   | Temas                                                | Horas   |
-|-------|------------------------------------------------------|---------|
-| 1     | - Introducción a Excel                               | 1       |
-|       | - Entrada de Datos y Formateo                         | 1       |
-|       | - Dominio de fórmulas básicas de Excel                | 1       |
-|       | - Gestión esencial de datos y manejo de libros y     |         |
-|       |   hojas de cálculo                                   | 1       |
-|       | - Técnicas de productividad en Excel y colaboración  |         |
-|       |   y uso compartido en Excel                          | 1       |
-|       | - Laboratorio práctico                                | 3       |
-| 2     | - Técnicas de limpieza de datos y dominio de         | 1       |
-|       |   fórmulas avanzadas                                 |         |
-|       | - Competencia en funciones de búsqueda y resumen de  | 1       |
-|       |   datos con tablas dinámicas                         |         |
-|       | - Profundización en herramientas de análisis de      | 1       |
-|       |   datos y técnicas avanzadas de visualización        |         |
-|       | - Automatización con macros y laboratorio práctico   | 2       |
-|       | - Laboratorio práctico                                | 2       |
-| 3     | - Introducción a Visual Basic para Excel y técnicas  | 1       |
-|       |   de integración de datos externos                   |         |
-|       | - Mejores prácticas para análisis de datos y         | 1       |
-|       |   técnicas avanzadas de visualización                |         |
-|       | - Técnicas de limpieza de datos avanzadas y dominio | 1       |
-|       |   de fórmulas avanzadas                              |         |
-|       | - Dominio de funciones de búsqueda avanzadas y       | 1       |
-|       |   resumen de datos con tablas dinámicas              |         |
-|       | - Laboratorio práctico                                | 3       |
-| 4     | - Profundización en técnicas avanzadas de            | 1       |
-|       |   visualización y técnicas de gráficos avanzadas     |         |
-|       | - Automatización avanzada con macros y práctica      | 2       |
-|       |   práctica                                            |         |
-|       | - Integración de Excel con datos externos y práctica | 1       |
-|       |   práctica                                            |         |
-|       | - Mejores prácticas para análisis de datos y         | 1       |
-|       |   práctica práctica                                  |         |
-|       | - Laboratorio práctico final                         | 3       |
-
-
 
 ## Contenidos
 - [Prework](#prework)
@@ -67,6 +29,23 @@
 ## Requisitos
 
 ### Requisitos por Bloque
+- **Deseable**:
+  | Área                         | Características específicas                                                                                                                               |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Álgebra Lineal**           | - Escalares, vectores, matrices y tensores<br> - Operaciones con matrices (suma, resta, multiplicación)<br> - Producto punto y producto cruzado<br> - Determinante y matriz inversa |
+|                              | - Espacios vectoriales y subespacios<br> - Bases y dimensión<br> - Espacios nulos y espacios columna<br> - Valores y vectores propios<br> - Aplicaciones en reducción de dimensionalidad |
+|                              | - Descomposición en valores singulares (SVD) y análisis de componentes principales (PCA)<br> - Conceptos y aplicaciones                                      |
+| **Cálculo**                  | - Funciones, límites y continuidad<br> - Derivadas y técnicas de diferenciación<br> - Regla de la cadena, producto y cociente<br> - Cálculo integral<br> - Aplicaciones de la integral definida e indefinida |
+|                              | - Cálculo multivariable<br> - Derivadas parciales<br> - Gradiente y optimización de funciones de varias variables                                           |
+| **Probabilidad**             | - Conceptos fundamentales<br> - Definición de probabilidad, espacio muestral y eventos<br> - Probabilidad condicional y teorema de Bayes<br> - Aplicaciones del teorema de Bayes |
+|                              | - Esperanza y varianza<br> - Cálculo de la media y la varianza de una distribución de probabilidad<br> - Cadenas de Markov e inferencia bayesiana            |
+| **Estadística**              | - Estadística descriptiva<br> - Medidas de tendencia central (media, mediana, moda)<br> - Medidas de dispersión (varianza, desviación estándar)              |
+|                              | - Estadística inferencial<br> - Pruebas de hipótesis<br> - Intervalos de confianza<br> - Análisis de regresión<br> - Regresión lineal simple y múltiple       |
+|                              | - Métodos no paramétricos<br> - Pruebas de significancia sin supuestos paramétricos                                                                         |
+| **Optimización Matemática**  | - Introducción a la optimización<br> - Problemas de optimización y métodos para resolverlos<br> - Programación lineal<br> - Formulación de problemas de programación lineal |
+|                              | - Métodos gráficos y algebraicos para resolverlos<br> - Optimización no lineal<br> - Métodos de optimización para funciones no lineales<br> - Temas avanzados en optimización |
+|                              | - Algoritmos de optimización más complejos (como el método del gradiente descendente)                                                                       |
+
 
 - **Excel:**
   - Sin requisitos.
