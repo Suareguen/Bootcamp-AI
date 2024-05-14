@@ -2,7 +2,7 @@
 
 ## Contenidos
 - [Prework](#prework)
-- [Skills - Lessons](#skills-lessons)
+- [Relación de skills y lessons](#skills-lessons)
 - [Requisitos](#requisitos)
 - [Bloque de Excel](#bloque-de-excel)
   - [Excel Básico](#01-excel-básico)
